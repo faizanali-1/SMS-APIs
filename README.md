@@ -146,7 +146,6 @@ GET http://localhost:8080/api/students
 * Swagger API Documentation
 * Validation (Hibernate Validator)
 * Logging (SLF4J)
-* Dockerization
 
 ---
 
@@ -158,4 +157,4 @@ GitHub: [https://github.com/faizanali-1](https://github.com/faizanali-1)
 Email: [faizanali.software@gmail.com]
 ---
 
-⭐ If you like this project, give it a star!
+THANK YOU VERY MUCH.
